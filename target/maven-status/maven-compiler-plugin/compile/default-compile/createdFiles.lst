@@ -1,0 +1,6 @@
+com/mathi/microservices/currencyexchangeservice/util/logging/EnvironmentConfigurationLogger.class
+com/mathi/microservices/currencyexchangeservice/resource/CurrencyExchangeController.class
+com/mathi/microservices/currencyexchangeservice/util/containerservice/ContainerMetaDataService.class
+com/mathi/microservices/currencyexchangeservice/resource/ExchangeValue.class
+com/mathi/microservices/currencyexchangeservice/resource/ExchangeValueRepository.class
+com/mathi/microservices/currencyexchangeservice/CurrencyExchangeServiceApplicationMySql.class
